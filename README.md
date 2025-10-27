@@ -22,7 +22,7 @@ This Power BI dashboard provides an analytical view of mobile sales performance 
 - **Interactive Filters:** Quarter-wise slicer for comparative analysis.
 
 ##  Dashboard Preview
-![Mobile Sales Performance Dashboard]([https://github.com/tajfareedsyed/Sales-Analysis-Dashboard-PowerBI/blob/main/Dashboard_overview.png](https://github.com/tajfareedsyed/Sales-Analysis-Dashboard-PowerBI/blob/main/Visuals/Dashboard_overview.png)
+![Mobile Sales Performance Dashboard](https://github.com/tajfareedsyed/Sales-Analysis-Dashboard-PowerBI/blob/main/Visuals/Dashboard_overview.png)
 
 ##  How to Use
 1. Download the `.pbix` file from the `/dashboard` folder.  
@@ -33,9 +33,6 @@ This Power BI dashboard provides an analytical view of mobile sales performance 
 - Credit Card and Online transactions contribute the majority of total revenue.  
 - Q4 shows the highest sales, indicating a seasonal peak.  
 - Average Selling Price remains stable across quarters, suggesting consistent pricing.
-
-##  Dashboard
-<img width="1005" height="567" alt="Dashboard_overview" src="https://github.com/user-attachments/assets/086d2a08-a1b8-46db-bad3-5f3974742a69" />
 
 
 ##  Author
