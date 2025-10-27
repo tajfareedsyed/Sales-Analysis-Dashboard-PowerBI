@@ -22,7 +22,7 @@ This Power BI dashboard provides an analytical view of mobile sales performance 
 - **Interactive Filters:** Quarter-wise slicer for comparative analysis.
 
 ##  Dashboard Preview
-![Mobile Sales Performance Dashboard](https://github.com/tajfareedsyed/Sales-Analysis-Dashboard-PowerBI/blob/main/Dashboard_overview.png)
+![Mobile Sales Performance Dashboard]([https://github.com/tajfareedsyed/Sales-Analysis-Dashboard-PowerBI/blob/main/Dashboard_overview.png](https://github.com/tajfareedsyed/Sales-Analysis-Dashboard-PowerBI/blob/main/Visuals/Dashboard_overview.png)
 
 ##  How to Use
 1. Download the `.pbix` file from the `/dashboard` folder.  
